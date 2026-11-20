@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/manifest/apple-touch-icon.png" alt="roadmap.sh logo" width="100" height="100">
+  </a>
+</p>
+
 # My roadmap.sh projects
 
 Small projects I build to practice specific concepts. Some are command-line tools, some have a web interface. I keep them here so the implementations and what I learned are in one place.
